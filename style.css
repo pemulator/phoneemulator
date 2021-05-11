@@ -24,3 +24,18 @@ body {
 .samsung-text {
   font-family: "Samsung";
 }
+
+.unsel {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/** iphone lol **/
+.phone-list {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  font-size: 30px;
+}
