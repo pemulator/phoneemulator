@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SFDisplay Light";
+  src: url("https://cdn.glitch.com/129aeb38-05b5-4b25-8390-d9dace6f6e91%2FSFUIDisplay-Light.ttf?v=1620712335630")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Samsung";
+  src: url("https://cdn.glitch.com/129aeb38-05b5-4b25-8390-d9dace6f6e91%2FITC%20Avant%20Garde%20Gothic%20LT%20Demi%20Regular.otf?v=1620712743795")
+    format("truetype");
+}
