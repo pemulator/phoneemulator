@@ -1,6 +1,17 @@
+html {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
 body {
   background: var(--color-bg);
   background: var(--color-txt);
+}
+
+.center {
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
 }
 
 .centered {
@@ -25,11 +36,40 @@ body {
   font-family: "Samsung";
 }
 
+.iphone-text-white a:link {
+  color: white;
+  text-decoration: none;
+}
+.iphone-text-white a:visited {
+  color: white;
+}
+
+.iphone-text-white {
+  font-family: "SFDisplay Light";
+  color: white;
+}
+.samsung-text-white {
+  font-family: "Samsung";
+  color: white;
+}
+
 .unsel {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+td a:link {
+  color: #000;
+  text-decoration: none;
+}
+td a:visited {
+  color: #000;
+}
+td {
+  font-size: 30px;
+  font-family: "SFDisplay Light";
 }
 
 /** iphone lol **/
