@@ -60,14 +60,17 @@ body {
   user-select: none;
 }
 
-td a:link {
+th {
+  font-weight: normal;
+}
+td a:link, th a:link {
   color: #000;
   text-decoration: none;
 }
-td a:visited {
+td a:visited, th a:visited {
   color: #000;
 }
-td {
+td, th {
   font-size: 30px;
   font-family: "SFDisplay Light";
 }
