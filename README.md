@@ -9,7 +9,7 @@ Hello there and welcome to the official [GitHub](https://github.com) repository 
 We currently have 2 phone emulators in the work, and 0 released. View the table here.
 | Emulator                                             | State     |
 | ---------------------------------------------------- | --------- |
-| [iPhone (1st gen)](https://iphoneemulator.glitch.me) | Alpha     |
+| [iPhone (1st gen)](https://iphoneemulator.glitch.me) | Pre-Alpha |
 | [iPhone 12](https://iphone12emulator.glitch.me)      | Alpha     |
 | Blackberry Key2                                      | Pre-Alpha |
 | Samsung S20                                          | Idea      |
