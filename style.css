@@ -82,3 +82,26 @@ td, th {
   top: 10px;
   font-size: 30px;
 }
+
+/** 404 page **/
+.error-text {
+  font-family: "SFDisplay Regular";
+  font-weight: bold;
+  font-size: 75px;
+  color: black;
+  line-height: 1px;
+}
+.error-text a:link {
+  color: black;
+  text-decoration: none;
+}
+.error-text a:visited {
+  color: black;
+}
+
+.error-text2 {
+  font-family: "SFDisplay Regular";
+  font-weight: normal;
+  font-size: 30px;
+  color: black;
+}
