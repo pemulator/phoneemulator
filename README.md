@@ -3,7 +3,7 @@ This is not an actual phone emulator. It is a recreation of the phone's UI and m
 
 This is also the official and only account for PhoneEmulator. Do not be fooled by imposters!
 
-#PhoneEmulator
+# PhoneEmulator
 Hello there and welcome to the official [GitHub](https://github.com) repository (and account) for [PhoneEmulator](https://phoneemulator.glitch.me)! This repository includes all of the source code for the main phone emulator website, the hub as we like to call it.
 
 We currently have 2 phone emulators in the work, and 0 released. View the table here.
